@@ -46,3 +46,4 @@ This system helps SMEs understand cybersecurity threats without needing advanced
 
 This project was developed in a controlled virtual environment for academic purposes.
 This project demonstrates SME-friendly cybersecurity reporting.
+Includes detailed attack records, visualization, and SME-focused reporting.
