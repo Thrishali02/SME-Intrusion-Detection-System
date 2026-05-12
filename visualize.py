@@ -12,9 +12,9 @@ with open("/home/kali/cowrie/var/log/cowrie/cowrie.json") as f:
 counts = Counter(usernames)
 
 plt.bar(counts.keys(), counts.values())
-plt.xlabel("Usernames")
+plt.xlabel("Users")
 plt.ylabel("Attempts")
-plt.title("Intrusion Attempts by Username")
+plt.title("Intrusion Attempts by User")
 
 plt.savefig("username_chart.png")
 plt.show()
